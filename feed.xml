@@ -13,5 +13,17 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Google Pixel 10a Isai Blue — Art Meets Technology</title>
+      <description>Two hosts discuss Google's Japan-exclusive Pixel 10a Isai Blue, a collaboration with Heralbony that celebrates diversity through art and technology.</description>
+      <pubDate>Wed, 08 Apr 2026 17:46:34 +0800</pubDate>
+      <enclosure url="https://yyfscott.github.io/podcast-feed/episodes/2026-04-08-173856.mp3"
+                 length="6677036"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-04-08-173856</guid>
+      <itunes:duration>6:57</itunes:duration>
+      <itunes:summary>Two hosts discuss Google's Japan-exclusive Pixel 10a Isai Blue, a collaboration with Heralbony that celebrates diversity through art and technology.</itunes:summary>
+    </item>
   </channel>
 </rss>
