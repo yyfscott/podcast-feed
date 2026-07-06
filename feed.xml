@@ -3,27 +3,28 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>做不了吧</title>
+    <title>铭恩设计博客</title>
     <link>https://yyfscott.github.io/podcast-feed</link>
-    <description>A personalized AI-generated podcast.</description>
-    <language>en</language>
+    <description>「做不了｜设计电波」主播铭恩的单口:设计、AI 硬件与创业的一线思考。</description>
+    <language>zh-cn</language>
     <atom:link href="https://yyfscott.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>做不了吧</itunes:author>
-    <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
+    <itunes:author>铭恩</itunes:author>
+    <itunes:summary>「做不了｜设计电波」主播铭恩的单口:设计、AI 硬件与创业的一线思考。</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://yyfscott.github.io/podcast-feed/covers/channel.png"/>
 
     <item>
       <title>Google Pixel 10a Isai Blue — Art Meets Technology</title>
-      <description>Two hosts discuss Google's Japan-exclusive Pixel 10a Isai Blue, a collaboration with Heralbony that celebrates diversity through art and technology.</description>
+      <description>Two hosts discuss Google&#x27;s Japan-exclusive Pixel 10a Isai Blue, a collaboration with Heralbony that celebrates diversity through art and technology.</description>
       <pubDate>Wed, 08 Apr 2026 17:46:34 +0800</pubDate>
       <enclosure url="https://yyfscott.github.io/podcast-feed/episodes/2026-04-08-173856.mp3"
                  length="6677036"
                  type="audio/mpeg"/>
       <guid isPermaLink="false">2026-04-08-173856</guid>
       <itunes:duration>6:57</itunes:duration>
-      <itunes:summary>Two hosts discuss Google's Japan-exclusive Pixel 10a Isai Blue, a collaboration with Heralbony that celebrates diversity through art and technology.</itunes:summary>
+      <itunes:summary>Two hosts discuss Google&#x27;s Japan-exclusive Pixel 10a Isai Blue, a collaboration with Heralbony that celebrates diversity through art and technology.</itunes:summary>
     </item>
   </channel>
 </rss>
