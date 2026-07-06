@@ -3,13 +3,13 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>铭恩设计博客</title>
+    <title>int.compter</title>
     <link>https://yyfscott.github.io/podcast-feed</link>
-    <description>「做不了｜设计电波」主播铭恩的单口:设计、AI 硬件与创业的一线思考。</description>
+    <description>int.compter ── 铭恩的个人电台:设计、AI 硬件与创业的一线思考,由他的个人上下文驱动。</description>
     <language>zh-cn</language>
     <atom:link href="https://yyfscott.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>铭恩</itunes:author>
-    <itunes:summary>「做不了｜设计电波」主播铭恩的单口:设计、AI 硬件与创业的一线思考。</itunes:summary>
+    <itunes:summary>int.compter ── 铭恩的个人电台:设计、AI 硬件与创业的一线思考,由他的个人上下文驱动。</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
